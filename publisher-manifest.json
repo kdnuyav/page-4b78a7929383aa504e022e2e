@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "45f94e6f0a1c0dfb00262713",
+  "owner": "kdnuyav",
+  "repo": "page-4b78a7929383aa504e022e2e",
+  "title": "泡泡Dog",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b78a7929383aa504e022e2e",
+      "a": "泡泡Dog",
+      "b": "",
+      "entity": "泡泡Dog",
+      "brand": "泡泡Dog",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6a40aac437379ac7cb7e73c4491c3e1407bf2428644c44801cea01cd385df75f",
+      "content": {
+        "keyword1": "泡泡Dog",
+        "keyword2": "",
+        "primary_entity": "泡泡Dog",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "泡泡Dog 官方网站提供机场订阅与 VPN 网络加速服务，覆盖客户端下载、多设备在线、流媒体解锁与游戏专线，帮助用户稳定完成跨境访问。",
+          "AI_DESCRIPTION": "泡泡Dog 官方网站提供机场订阅与 VPN 网络加速服务，覆盖客户端下载、多设备在线、流媒体解锁与游戏专线，帮助用户稳定完成跨境访问。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e7f2f6;font-size:16px;line-height:1.75}a{color:#2ee6d6;text-decoration:none}header{background:#0c1f33;border-bottom:1px solid #1a3a55;padding:12px 16px}nav{max-width:1080px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center}.logo{color:#2ee6d6;font-weight:700;margin-right:auto}nav a{color:#c5dbe4;font-size:14px}.ad{border:1px dashed #1f4d5c;color:#7aa0ad;text-align:center;padding:12px;margin:0;font-size:13px;background:#0b1c2c}.wrap{max-width:1080px;margin:0 auto;padding:20px 16px 40px}.editorial{display:block}main{min-width:0}h1{font-size:1.85rem;line-height:1.3;color:#fff;margin:8px 0 14px}h2{font-size:1.32rem;color:#2ee6d6;margin:28px 0 12px;border-left:4px solid #2ee6d6;padding-left:10px}h3{font-size:1.08rem;color:#9be7df;margin:18px 0 8px}p,li{color:#d5e6ec}.lead{font-size:1.04rem;color:#cfe7ee}.plans{display:grid;gap:12px;margin:12px 0 8px}.plan{background:#10263b;border:1px solid #1d4660;padding:16px;border-radius:8px}.plan.featured{border-color:#2ee6d6}.tag{display:inline-block;font-size:12px;color:#071422;background:#2ee6d6;padding:2px 8px;border-radius:4px;margin-bottom:8px;font-weight:700}.price{font-size:1.35rem;color:#2ee6d6;font-weight:700}.annual{font-size:13px;color:#8fb3bf}.plan ul{padding-left:18px;margin:8px 0 0}.cols{display:grid;gap:12px}.card{background:#10263b;border:1px solid #1d4660;padding:14px 16px;border-radius:8px}.steps{padding-left:20px;margin:8px 0}.faq details{background:#10263b;border:1px solid #1d4660;margin:0 0 10px;border-radius:6px}.faq summary{padding:14px 16px;color:#fff;font-weight:600}.faq details p{padding:0 16px 14px;margin:0;color:#c5dbe4}.faq details[open]{border-color:#2ee6d6}aside{background:#10263b;border:1px solid #1d4660;padding:16px;border-radius:8px;margin-top:20px}aside h2{font-size:1.05rem;margin-top:0}aside ol,aside ul{padding-left:18px;margin:8px 0 0;font-size:14px}footer{background:#061018;border-top:1px solid #1a3a55;padding:24px 16px;font-size:14px;color:#8fb3bf}.foot{max-width:1080px;margin:0 auto}.links{display:flex;flex-wrap:wrap;gap:8px 14px;margin:8px 0 16px}.sitemap ul{padding-left:18px}@media(min-width:720px){.plans{grid-template-columns:repeat(3,1fr)}.cols{grid-template-columns:1fr 1fr}}@media(min-width:900px){.editorial{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:24px;align-items:start}aside{margin-top:8px;position:static}}</style><header><nav><span class=\"logo\">泡泡Dog</span><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a><a href=\"#map\">站点地图</a></nav></header><div class=\"ad\">合作展示位 · 泡泡Dog 官方网站品牌栏</div><div class=\"wrap\"><div class=\"editorial\"><main><h1>泡泡Dog 官方网站</h1><p class=\"lead\">泡泡Dog 提供机场订阅与 VPN 梯子网络加速。本页说明套餐额度、使用场景、客户端下载与导入步骤，方便按设备数和流量选择基础版、旗舰版或团队版。</p><section id=\"intro\"><h2>品牌简介</h2><p>泡泡Dog 面向需要稳定跨境访问的个人与小团队。服务以订阅为核心：购买套餐后获得专属订阅地址，再写入 Clash、sing-box、Shadowrocket 等客户端即可按节点连接。官方网站只公布套餐规则、操作路径与常见问题，避免把下载入口拆散到来源不明的页面。</p><p>线路侧覆盖常规中转与部分专线。基础版适合轻量浏览与资料查阅；旗舰版强调原生流媒体解锁与 IPLC 游戏优化；团队版提高流量与同时在线台数，并支持企业定制路由。节点会随高峰与维护调整，连接前建议先完成一次延迟与解锁测试，再固定常用地区。</p><p>泡泡Dog 不把加速理解成“无限制出口”。每月流量、设备上限与解锁范围都写在套餐卡片里，年付只改变结算周期，不改变当月额度计算方式。若你需要把同一订阅分给家庭或工作室，请直接对照三档同时在线数量，而不是反复拆分同一条配置。</p></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下为泡泡Dog 当前对外说明的三档方案。价格按自然月计费，年付为一次性预付十二个月。流量在订阅周期内累计，不结转至下一周期。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">常用档</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>订阅地址用于客户端自动拉取节点与分流规则。请只在泡泡Dog 官网账户页复制，不要转发到公开群组。设备数按同时建立的活动连接统计，同一手机上的多个 App 通常计为同一终端，电脑与路由器会分别占用名额。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><article class=\"card\"><h3>远程办公与资料库</h3><p>视频会议、云文档、代码托管和海外邮箱对延迟抖动敏感。建议办公时段优先选择香港、新加坡或日本的中转节点，并在客户端开启规则分流，让国内站点直连，避免把全部流量送进隧道。</p></article><article class=\"card\"><h3>流媒体点播</h3><p>基础版覆盖常见地区的基础片库；旗舰版与团队版强调全节点原生解锁，减少“仅支持浏览器、App 仍提示地区限制”的情况。播放前先用对应平台的检测页确认出口地区，再锁定该节点。</p></article><article class=\"card\"><h3>游戏与实时对战</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对丢包敏感的对战与登录器。请把游戏进程加入代理名单，大厅与更新下载可按需要直连。团队版的高带宽节点更适合同时开语音、直播与对局。</p></article><article class=\"card\"><h3>客服坐席与跨境店铺</h3><p>多窗口后台、广告投放与支付页面需要出口相对固定。团队版可申请定制路由，把指定域名走指定地区。请避免在同一浏览器配置里混用过多切换策略，以免 cookie 与风控地区不一致。</p></article></div></section><section id=\"download\"><h2>客户端下载与操作说明</h2><p>泡泡Dog 本身提供订阅，不捆绑来路不明的安装包。请从各客户端项目的公开发布页获取软件，再用官网给出的订阅链接导入。下列步骤适用于大多数图形客户端。</p><h3>官方下载指引</h3><ul><li>Windows / macOS：使用 Clash Meta 内核的图形壳，或 sing-box 桌面端。安装后关闭系统代理残留，再导入订阅。</li><li>Android：选择可订阅的 Clash Meta 或 sing-box 应用，授权 VPN 权限后更新节点。</li><li>iOS / iPadOS：常用 Shadowrocket、Stash 等，需自行准备商店渠道。导入后打开“增强模式”或等效开关以覆盖 UDP。</li><li>路由器：将订阅转为兼容格式后写入，注意占用团队版设备名额，并给局域网设备划分分流。</li></ul><p><a href=\"#download\">前往客户端下载说明</a> 仅作页面内指引。若安装包校验与官方文档不一致，请停止安装并改用其他公开版本。</p><h3>从订阅到连通</h3><ol class=\"steps\"><li>在泡泡Dog 账户中选择套餐并完成结算，打开订阅管理复制链接。</li><li>打开客户端的“订阅 / Profile”页，粘贴链接并设置 6 至 12 小时自动更新。</li><li>更新成功后，按地区筛选节点，先测延迟再测解锁，不要只看名称里的国旗。</li><li>开启系统代理或 TUN 模式。若仅浏览器需要加速，可改用规则模式减少无关消耗。</li><li>访问目标站点确认连通。失败时切换传输协议或关闭本机防火墙对虚拟网卡的拦截，再查看客户端日志中的超时阶段。</li></ol><h3>分流与省流量</h3><p>默认规则通常已将国内域名直连。观看 4K 或持续同步网盘会快速消耗月度额度，旗舰版 300GB 更适合混合办公加流媒体；纯文档场景基础版即可。团队共用时，为每台设备命名并定期检查在线列表，避免闲置 TUN 占满名额。</p></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><p>下列问答对应泡泡Dog 机场订阅与客户端下载中最常被问到的操作。展开即可阅读完整说明。</p><details><summary>泡泡Dog 是机场还是单独的 VPN 客户端？</summary><p>泡泡Dog 是提供节点与订阅的机场服务，也常被称作泡泡Dog VPN 或网络加速器入口。你需要自行安装兼容客户端，再用官网订阅地址拉取配置。这样可以按系统选择工具，而不必绑定单一 App。</p></details><details><summary>如何完成官网下载后的订阅导入？</summary><p>先确认客户端支持 Clash 或 sing-box 订阅。复制账户页的订阅 URL，在客户端选择“新建订阅”，粘贴并更新。若提示 TLS 或 404，多半是链接被截断或套餐未生效。导入成功后应能看到分区节点列表，而不是空白配置。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>一人一至两台设备、以网页和资料为主，选基础版。需要稳定看流媒体、偶尔打游戏，选旗舰版，它包含全节点原生解锁与 IPLC 游戏优化。工作室、教室或需要二十台同时在线、定制路由时选团队版。年付只优惠总价，不增加当月流量。</p></details><details><summary>流量用尽或提示设备超限怎么办？</summary><p>流量用尽后新连接会被限制，可等待下个计费周期或升级套餐。设备超限时，在账户在线列表断开闲置终端，或关闭路由器上的全局代理。同一电脑开两个客户端会占两个名额。不要用分享订阅的方式绕过台数，这会触发安全策略。</p></details><details><summary>节点能打开网页但 App 仍显示地区限制？</summary><p>网页走系统代理、App 走直连是常见原因。开启 TUN / 增强模式，并把该 App 加入代理列表。流媒体还依赖 DNS 与解锁策略，请改用旗舰版标注原生解锁的节点，并清空 App 缓存后重试。若仅某一个平台失败，换同地区的备用节点比反复开关飞行模式更有效。</p></details><details><summary>游戏延迟低但频繁闪断如何处理？</summary><p>先改用旗舰版 IPLC 相关节点，关闭客户端的 UDP over TCP 试验项，检查 Wi-Fi 是否开启了随机 MAC。公司网络若对 UDP 限速，可换端口或传输方式。闪断伴随流量暴涨时，查看是否有更新器走了代理。团队版高带宽节点适合语音与对局并行，但仍需保证本地网络本身稳定。</p></details><details><summary>泡泡Dog 官方网站如何识别，会不会有仿冒下载页？</summary><p>认准品牌全称泡泡Dog 与本页结构中的套餐说明、操作步骤和问答。官方下载指引只描述客户端类型，不诱导安装来路不明的加速器壳。遇到索要额外远控权限、或把订阅改成短链下载 exe 的页面，应立即停止。需要发票或对公采购时走团队版客户经理通道，不要通过个人聊天转账。</p></details></section><section id=\"map\"><h2>站点地图</h2><p>本站为单页说明结构，便于检索泡泡Dog 官网中的订阅、加速器与客户端下载信息。</p><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐与机场订阅</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#download\">客户端下载与操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#links\">友情链接</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><aside><h2>阅读导航</h2><ol><li><a href=\"#plans\">三档套餐对照</a></li><li><a href=\"#download\">导入订阅步骤</a></li><li><a href=\"#faq\">高频问答</a></li></ol><h2>套餐速记</h2><ul><li>基础版：100GB / 3 设备</li><li>旗舰版：300GB / 5 设备 / IPLC</li><li>团队版：1000GB / 20 设备</li></ul><p>需要企业定制路由时直接查看团队版说明，不必重复叠加个人套餐。</p></aside></div><div class=\"ad\">信息合作位 · 仅展示文字合作说明，不含外部资源</div></div><footer><div class=\"foot\" id=\"links\"><p>友情链接</p><div class=\"links\"><a href=\"#\">客户端兼容说明</a><a href=\"#\">节点使用守则</a><a href=\"#\">分流规则备忘</a><a href=\"#intro\">返回简介</a><a href=\"#faq\">返回问答</a></div><div class=\"sitemap\"><p>泡泡Dog 官方网站 · 机场订阅与网络加速说明</p><p>本页内容用于介绍套餐、场景与操作路径。下载客户端时请核验发布来源。保留品牌原意，不把机场或 VPN 名称重复堆叠。</p></div></div></footer>",
+          "hash": "68fc94071c845f4d0d86b6558124a3ae6ed144304c8ebaee4b328ad5f27667e1",
+          "seo": {
+            "title": "泡泡Dog 官网 - 机场订阅、VPN 加速器与客户端下载",
+            "keywords": "泡泡Dog,泡泡Dog机场,泡泡Dog VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "泡泡Dog 官方网站提供机场订阅与 VPN 网络加速服务，覆盖客户端下载、多设备在线、流媒体解锁与游戏专线，帮助用户稳定完成跨境访问。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "keocqiu.cn",
+    "host": "p-d1c5ad5dee.keocqiu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "keocqiu.cn",
+      "url": "https://keocqiu.cn/",
+      "label": "酸奶",
+      "apex": "keocqiu.cn",
+      "kind": null,
+      "identity": "efqpmqbd/page-f67ade2d0735f08590c585d9"
+    },
+    {
+      "host": "0tr7zh.cn",
+      "url": "https://0tr7zh.cn/",
+      "label": "泡泡Dog",
+      "apex": "0tr7zh.cn",
+      "kind": null,
+      "identity": "wtbgvfamc/page-2a2ae03e9a364fb636441f63"
+    },
+    {
+      "host": "8qt0un.cn",
+      "url": "https://8qt0un.cn/",
+      "label": "泡泡Dog",
+      "apex": "8qt0un.cn",
+      "kind": null,
+      "identity": "ceuytahcswgz/page-5b7363b162e397fe7994416d"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1e7c8e7936317910fe8936c7435bfa11e6b38617bc6c901031f914b83af0b184",
+    "sitemap.xml": "b5df5a9ac2c904e3429f96e3be2ca25b62261c63951cc4e9ce2c0ba4eab6f50f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "33a686d92e8dcf29e60937ef62f2e6f7ea19f2d377429c0c64b6aebda1d8e2c1",
+    "robots.txt": "b6e7d1c99a30b52ead3880723ea5a051d986f8672ed80730fe896b58cb009b98",
+    "69610686fc7fd41193d154ebea1d5c6c.txt": "5960d4145abf62a38285ed601fc5adac353d2e5e9b1845b08147b784197f84cf"
+  },
+  "revision": "80a9fb944392c67d18207ab5f44a6d8661698d1141e49ce05de0256749ecf03b"
+}
